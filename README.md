@@ -17,3 +17,5 @@
     import { NumericFormat } from 'react-number-format';
 
 - `npm install --save gh-pages`
+
+- `npm run deploy`
