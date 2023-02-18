@@ -15,3 +15,5 @@
     In ES6, Numeric Format need to be import like below:
     
     import { NumericFormat } from 'react-number-format';
+
+- `npm install --save gh-pages`
